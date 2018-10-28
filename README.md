@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-<img src="Flashcardz2.01.gif" width=200><br>
+<img src="https://github.com/rebecaaaaa/Flashcardz2.01/blob/master/Flashcardz2.01.gif" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
